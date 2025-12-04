@@ -1660,6 +1660,10 @@ howiemail:
   values:
   - exchange: feedback-smtp.us-east-2.amazonses.com.
     preference: 10
+damien: #damiensully413@gmail.com @usertermed
+-ttl: 600
+type: CNAME
+value: usertermed.github.io
 itch.daydream:
   ttl: 300
   type: CNAME
